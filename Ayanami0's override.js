@@ -220,7 +220,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/ChinaMax_OCD_IP.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/ChinaMax/ChinaMax_OCD_IP.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/ChinaMax/ChinaMax_OCD_IP.mrs"
     },
     "ChinaMax_Domain": {
       "type": "http",
@@ -228,7 +228,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/ChinaMax_OCD_Domain.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/ChinaMax/ChinaMax_OCD_Domain.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/ChinaMax/ChinaMax_OCD_Domain.mrs"
     },
     "Lan_Domain": {
       "type": "http",
@@ -236,7 +236,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/Lan_OCD_Domain.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Lan/Lan_OCD_Domain.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Lan/Lan_OCD_Domain.mrs"
     },
     "Lan_IP": {
       "type": "http",
@@ -244,7 +244,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/Lan_OCD_IP.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Lan/Lan_OCD_IP.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Lan/Lan_OCD_IP.mrs"
     },
     "Direct": {
       "type": "http",
@@ -252,7 +252,7 @@ const overrideConfig = {
       "format": "yaml",
       "interval": 86400,
       "path": "./rules/direct.yaml",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Direct/Direct.yaml"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Direct/Direct.yaml"
     },
     "Global_Domain": {
       "type": "http",
@@ -260,7 +260,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/Global_OCD_Domain.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Global/Global_OCD_Domain.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Global/Global_OCD_Domain.mrs"
     },
     "Global_IP": {
       "type": "http",
@@ -268,7 +268,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/Global_OCD_IP.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Global/Global_OCD_IP.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Global/Global_OCD_IP.mrs"
     },
     "AWAvenue_Ads_Rule": {
       "type": "http",
@@ -284,7 +284,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/Game_OCD_Domain.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Game/Game_OCD_Domain.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Game/Game_OCD_Domain.mrs"
     },
     "Game_IP": {
       "type": "http",
@@ -292,7 +292,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/Game_OCD_IP.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Game/Game_OCD_IP.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Game/Game_OCD_IP.mrs"
     },
     "GameDownload_Domain": {
       "type": "http",
@@ -300,7 +300,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/GameDownload_OCD_Domain.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Game/GameDownload/GameDownload_OCD_Domain.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Game/GameDownload/GameDownload_OCD_Domain.mrs"
     },
     "Emby_Domain": {
       "type": "http",
@@ -308,7 +308,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/Emby_OCD_Domain.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Emby/Emby_OCD_Domain.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Emby/Emby_OCD_Domain.mrs"
     },
     "Telegram_Domain": {
       "type": "http",
@@ -316,7 +316,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/Telegram.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Telegram/Telegram_OCD_Domain.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Telegram/Telegram_OCD_Domain.mrs"
     },
     "Telegram_IP": {
       "type": "http",
@@ -324,7 +324,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/Telegram_IP.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Telegram/Telegram_OCD_IP.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Telegram/Telegram_OCD_IP.mrs"
     },
     "GoogleFCM_Domain": {
       "type": "http",
@@ -332,7 +332,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/GoogleFCM.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/GoogleFCM/GoogleFCM_OCD_Domain.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/GoogleFCM/GoogleFCM_OCD_Domain.mrs"
     },
     "GoogleFCM_IP": {
       "type": "http",
@@ -340,7 +340,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/GoogleFCM_IP.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/GoogleFCM/GoogleFCM_OCD_IP.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/GoogleFCM/GoogleFCM_OCD_IP.mrs"
     },
     "Microsoft_Domain": {
       "type": "http",
@@ -348,7 +348,7 @@ const overrideConfig = {
       "format": "mrs",
       "interval": 86400,
       "path": "./rules/Microsoft.mrs",
-      "url": "https://raw.githubusercontent.com/Ayanami0xL1l1th/Rule-for-OCD/master/rule/Clash/Microsoft/Microsoft_OCD_Domain.mrs"
+      "url": "https://raw.githubusercontent.com/Ayanamikizuna/Rule-for-OCD/master/rule/Clash/Microsoft/Microsoft_OCD_Domain.mrs"
     }
   },
 
